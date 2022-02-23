@@ -1,0 +1,19 @@
+{
+    "name": "Ka1er",
+    "description": "https://github.com/Ka1er/Quantmult-x",
+    "task": [
+        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.js, tag=中国电信, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/10000.png, enabled=true",
+        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.js, tag=中国移动, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/10086.png, enabled=true",
+        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js, tag=bilibili, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/bilibili.png, enabled=true",
+        "* * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/box.png, enabled=true",
+        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/jddj/jddj.js, tag=京东到家, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jddj.png, enabled=true",
+        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js, tag=美团, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/meituan.png, enabled=true",
+        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qqmusic/qqmusic.js, tag=QQ音乐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/qqmusic.png, enabled=true",
+        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/sfexpress/sfexpress.js, tag=顺丰速运, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/sfexpress.png, enabled=true",
+        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/quanx/smzdm.js, tag=什么值得买, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/smzdm.png, enabled=true",
+        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js, tag=百度签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/baidu.png, enabled=true",
+        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js, tag=腾讯视频, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/videoqq.png, enabled=true",
+        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wmmeituan/wmmeituan.js, tag=美团外卖, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/wmmeituan.png, enabled=true",
+        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wps/wps.js, tag=WPS, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/wps.png, enabled=true",
+    ]
+}
